@@ -13,8 +13,8 @@
         </td>
         <td valign="middle">𝒮𝒸𝒽𝑜𝑜𝓁 𝑜𝒻 𝒜𝓊𝓉𝑜𝓂𝒶𝓉𝒾𝑜𝓃 𝒯𝑒𝓈𝓉𝒾𝓃𝑔 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝓈 
             </br><a target="_blank" href="https://qa.guru">QA.GURU</a>. </br>
-            <img src="https://disk.yandex.ru/i/KX0Fnqk_O13_jQ" alt="certificate QA.GURU" />
         </td>
+        <img src="https://disk.yandex.ru/i/KX0Fnqk_O13_jQ" alt="certificate QA.GURU" />
     </tr>
 </tr>
 </table>
