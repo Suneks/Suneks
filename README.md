@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Aleksander;I+work+as+a+QA+Engineer+in+Sber+Company;&font=Fira%20Code&center=true&width=650&height=50&color=e28920&vCenter=true&size=28"></a>
 </p>
-<img src="[https://disk.yandex.ru/i/KX0Fnqk_O13_jQ](https://pic.rutubelist.ru/video/17/b1/17b100a0bcbc6e5e8d11101cde21aca7.jpg)" alt="certificate QA.GURU" />
 
 <!-- Education section -->
 <details>	
