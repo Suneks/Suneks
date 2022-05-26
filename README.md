@@ -1,5 +1,3 @@
-### Hi, everyone 🤠, my name is Alexander!
-
 <h1 align="center">Hi, everyone 🤠, my name is Aleksander and welcome to my Github Page!
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
