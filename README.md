@@ -8,6 +8,7 @@
 <!-- Education section -->
 <details>	
   <summary>👨‍🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷</summary>
+  <img src="https://disk.yandex.ru/i/KX0Fnqk_O13_jQ" alt="certificate QA.GURU" />
 <tr>
     <td width="30%" valign="center">
         </td>
