@@ -6,12 +6,12 @@
 
 <!-- Education section -->
 <details>	
-  <summary>👨‍🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷</summary>
+  <summary>👨‍🎓 Education 👨‍🎓</summary>
 <tr>
     <td width="30%" valign="center">
         </td>
         <td valign="middle">𝒮𝒸𝒽𝑜𝑜𝓁 𝑜𝒻 𝒜𝓊𝓉𝑜𝓂𝒶𝓉𝒾𝑜𝓃 𝒯𝑒𝓈𝓉𝒾𝓃𝑔 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝓈 
-            </br><a target="_blank" href="https://qa.guru">QA.GURU</a>. </br>
+            </br><a target="_blank" href="https://qa.guru">QA.GURU</a> </br>
         </td>
         <img src="cert.png" alt="certificate QA.GURU" />
     </tr>
