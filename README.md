@@ -1,7 +1,7 @@
 <h1 align="center">Hi, everyone 🤠, my name is Aleksander and welcome to my Github Page!
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Aleksander;I+work+as+a+QA+Engineer+in+Sber+Company;&font=Fira%20Code&center=true&width=650&height=50&color=61dafb&vCenter=true&size=26"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Aleksander;I+work+as+a+QA+Engineer+in+Sber+Company;&font=Fira%20Code&center=true&width=650&height=50&color=62dafb&vCenter=true&size=30"></a>
 </p>
 
 
