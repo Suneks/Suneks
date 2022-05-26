@@ -1,4 +1,4 @@
-<h1 align="center">Hi, everyone 🤠, my name is Aleksander and welcome to my Github Page!
+<h1 align="center">Hi, everyone 🤠, my name is Aleksandr and welcome to my Github Page!
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Aleksander;I+work+as+a+QA+Engineer+in+Sber+Company;&font=Fira%20Code&center=true&width=650&height=50&color=e28920&vCenter=true&size=28"></a>
@@ -19,6 +19,8 @@
 </table>
 </br>
   </details>
+  
+  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suneks&theme=monokai)
 
